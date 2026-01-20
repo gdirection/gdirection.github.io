@@ -1,0 +1,57 @@
+{
+  "professionalServices": {
+    "title": "Professional Services",
+    "description": "Journal Reviewer",
+    "journals": [
+      "IEEE Transactions on Mobile Computing (TMC)",
+      "IEEE Transactions on Cloud Computing (TCC)",
+      "IEEE Transactions on Knowledge and Data Engineering (TKDE)",
+      "IEEE Intelligent Systems (IS)",
+      "IEEE Transactions on Big Data (TBD)",
+      "IEEE Internet of Things Journal (IoT)",
+      "IEEE Transactions on Industrial Informatics (TI)",
+      "Artificial Intelligence Review (AIRE)",
+      "Journal of Biomedical and Health Informatics (JBHI)",
+      "Weather and Forecasting (WAF)"
+    ]
+  },
+  "experience": [
+    {
+      "period": "Sep 2020 – Feb 2021",
+      "title": "Post-Doctoral Researcher",
+      "institution": "Cooperative Institute for Research in Environmental Sciences",
+      "responsibilities": [
+        "Developed a system to locate and analyze midnight temperature maximum from WAM-IPE model simulation results (Python)",
+        "Led machine learning projects to identify spread-F in ionograms by deep learning methodologies"
+      ]
+    },
+    {
+      "period": "Jan 2019 – May 2020",
+      "title": "Teaching Assistant",
+      "institution": "University of Colorado Boulder",
+      "responsibilities": [
+        "CSCI2270 Computer Science 2: Data Structures(Spring 2019)(Fall 2019)(Spring 2020)"
+      ]
+    },
+    {
+      "period": "Jan 2017 – May 2018",
+      "title": "Professional Research Assistant",
+      "institution": "Cooperative Institute for Research in Environmental Sciences",
+      "responsibilities": [
+        "Develop programs to parallel pre-processing satellite data and post-processing algorithms to increase predict accuracy",
+        "Combine feature engineering and image processing concept to recognize extreme weather phenomenon",
+        "Build convolutional neural network to identify region of interesting from water vapor satellite images"
+      ]
+    },
+    {
+      "period": "Aug 2015 – Fall 2016",
+      "title": "Teaching Assistant",
+      "institution": "University of Colorado Boulder",
+      "responsibilities": [
+        "CSCI3753 Design and Analysis of Operating Systems(Fall 2016)",
+        "CSCI2400 Computer Systems(Spring 2016)",
+        "CSCI3308 Software Engineering Methods and Tools(Fall 2015)"
+      ]
+    }
+  ]
+}

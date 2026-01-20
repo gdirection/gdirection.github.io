@@ -1,0 +1,49 @@
+[
+  {
+    "period": "Nov 2022 – Present",
+    "title": "Software Engineer",
+    "company": "Verily Life Sciences, South San Francisco, CA, USA",
+    "responsibilities": [
+      "Designed and implemented critical quality workflows and provenance features for data enrichment modules, ensuring data integrity and accuracy across systems.",
+      "Developed and deployed data extraction modules on GCP data pipeline, converting complex healthcare data into FHIR resources for healthcare registries."
+    ]
+  },
+  {
+    "period": "Mar 2021 – Oct 2022",
+    "title": "Software Developer",
+    "company": "Epic Systems, Madison, WI, USA",
+    "responsibilities": [
+      "Proposed an efficient ID management service to support scalable systems after identifying limitations in the existing ID generation mechanism",
+      "Developed RESTful APIs for 17 HL7 FHIR resources and 2 FHIR profiles to exchange electronic health record data",
+      "Reduced memory footprint by one-third during queries on Caché multi-model databases, leading to faster response times."
+    ]
+  },
+  {
+    "period": "May 2018 – Aug 2018",
+    "title": "Systems Engineering Internships",
+    "company": "Qualcomm Atheros, San Jose, USA",
+    "responsibilities": [
+      "Developed machine learning algorithm to control Adaptive Noise Immunity feature of Wi-Fi to enhance throughput performance",
+      "Collected Wi-Fi RF sensing data and built an indoor mapping system through deep learning (Python/Scikit-learn)"
+    ]
+  },
+  {
+    "period": "Jun 2016 – Aug 2016",
+    "title": "Systems Engineering Internships",
+    "company": "Qualcomm Research, New Jersey, USA",
+    "responsibilities": [
+      "Designed smart logging software system for LTE small cells to locate critical timing to debug and perform system profiling",
+      "Implemented hosts simulation to verify and evaluate the performance of smart logging software system (C/C++/Python)"
+    ]
+  },
+  {
+    "period": "April 2011 – July 2015",
+    "title": "System Engineer",
+    "company": "MediaTek, Taiwan",
+    "responsibilities": [
+      "Developed rate adaptation algorithms for 802.11ac SU/MU-MIMO wireless systems, simulated the algorithm by OMNEST network simulator and correlated with field trial measurement (C/C++/OMNEST)",
+      "Designed coexistence architecture of Wi-Fi/Bluetooth/LTE combo chip by time and frequency domain management. led projects from feature evaluation, function design, chip simulation, FPGA emulation, silicon chips validation, system performance tuning and system quality assurance to the final max production stage",
+      "Brought up initial firmware, FPGA driver and automation test tools for system architecture design and evaluation (C/Python/Linux Driver)"
+    ]
+  }
+]

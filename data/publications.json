@@ -1,0 +1,74 @@
+{
+  "publications": [
+    {
+      "citation": "Luwanga, Christopher, Tzu-Wei Fang, Amal Chandran, and Yu-Ju Lee. \"Automatic spread-F detection using deep learning.\" Radio Science 57, no. 5 (2022): 1-16."
+    },
+    {
+      "citation": "Lee, Yu-Ju, David Hall, Quan Liu, Wen-Wei Liao, and Ming-Chun Huang. \"Interpretable tropical cyclone intensity estimation using Dvorak-inspired machine learning techniques.\" Engineering Applications of Artificial Intelligence 101 (2021): 104233."
+    },
+    {
+      "citation": "Jiang, Haotian, James Starkman, Yu-Ju Lee, Huan Chen, Xiaoye Qian, and Ming-Chun Huang. \"Distributed Deep Learning Optimized System over the Cloud and Smart Phone Devices.\" IEEE Transactions on Mobile Computing (2019)."
+    },
+    {
+      "citation": "Tianhan Lu, Yu-Ju Lee, Wen-Wei Liao, \"Towards Denial-of-Service Memory Vulnerabilities,\" Journal of Software vol. 14, no. 9, pp. 423-436, 2019."
+    },
+    {
+      "citation": "Lee, Yu-Ju, David Hall, Jebb Stewart, and Mark Govett. \"Machine Learning for Targeted Assimilation of Satellite Data.\" In Joint European Conference on Machine Learning and Knowledge Discovery in Databases, pp. 53-68. Springer, Cham, 2018."
+    },
+    {
+      "citation": "Lee, Yu-Ju, and Wen-Wei Liao. \"Ultimate performance of Wi-Fi access points with multiple interfaces: An application of software defined network.\" In Advanced Communication Technology (ICACT), 2018 20th International Conference on, pp. 590-594. IEEE, 2018."
+    },
+    {
+      "citation": "Lee, Yu-Ju, and Eric Wustrow. \"OverTorrent: Anticensorship without centralized servers.\" In Privacy, Security and Trust (PST), 2016 14th Annual Conference on, pp. 388-391. IEEE, 2016."
+    },
+    {
+      "citation": "Lee, Yuju, Ming-Chun Huang, Xiaoyi Zhang, and Wenyao Xu. \"FridgeNet: a nutrition and social activity promotion platform for aging populations.\" IEEE Intelligent Systems 30, no. 4 (2015): 23-30."
+    },
+    {
+      "citation": "Wu, Yingxiao, Wenyao Xu, Jason J. Liu, Ming-Chun Huang, Shuang Luan, and Yuju Lee. \"An energy-efficient adaptive sensing framework for gait monitoring using smart insole.\" IEEE Sensors Journal 15, no. 4 (2015): 2335-2343."
+    }
+  ],
+  "patents": [
+    {
+      "citation": "Lin, Ying-you, Yu-ju Lee, Chih-kun Chang, Chih-wei Kang, Hsi-chang Yang, and Pu-hsuan Lin. \"Sounding method and wireless communication system.\" U.S. Patent 9,992,789, issued June 5, 2018."
+    },
+    {
+      "citation": "Lee, Yu-Ju, Ying-You Lin, Chih-kun Chang, Chih-Wei Kang, and Hsi-Chang Yang. \"Sounding method and wireless communication system.\" U.S. Patent 9,900,901, issued February 20, 2018."
+    },
+    {
+      "citation": "Lee, Yu-Ju, Po-Hsun Huang, and C. H. O. U. Chao-Wen. \"Method and apparatus for determining silence time.\" U.S. Patent 9,894,466, issued February 13, 2018."
+    },
+    {
+      "citation": "Lee, Yu-Ju. \"Coexistence operation method and related wireless system.\" U.S. Patent 9,860,754, issued January 2, 2018."
+    },
+    {
+      "citation": "Lee, Yu-Ju, Cheng-Lung Tsai, Hao-Sheng Hsu, and Hui-Kuang Tseng. \"Method and wireless communication device for antenna deployment determination.\" U.S. Patent 9,692,532, issued June 27, 2017."
+    },
+    {
+      "citation": "Lee, Yu-Ju, Ying-You Lin, Chih-Wei Kang, and Chih-kun Chang. \"Communication device, integrated circuitry, and the communication method thereof.\" U.S. Patent Application 15/172,287, filed December 8, 2016."
+    },
+    {
+      "citation": "Lee, Yu-Ju, Hao-Sheng Hsu, and W. U. Pao-Chen. \"Method of managing communication traffic for multiple communication technologies and communication device thereof.\" U.S. Patent 9,408,149, issued August 2, 2016."
+    },
+    {
+      "citation": "Lee, Yu-Ju, and Hsu-Chu Huang. \"Scheduling method and electronic device using the same.\" U.S. Patent Application 14/024,651, filed March 12, 2015."
+    },
+    {
+      "citation": "Lee, Yu-Ju, Po-Hsun Huang, Sheng-Da Chiang, You-Duan Chen, Shih-Chin Jung, Ching-Hwa Yu, and Chia-Hsiang Hsu. \"Method of Managing Packet Transmission for Wireless System.\" U.S. Patent Application 14/096,020, filed July 24, 2014."
+    }
+  ],
+  "presentations": [
+    {
+      "citation": "Lee, Yu-Ju, Wenwei Liao, and Kuan-Neng Chen. \"Intensity estimation of tropical cyclone satellite images using random walk with restart.\" In AGU Fall Meeting Abstracts, vol. 2019, pp. GC43D-1373. 2019."
+    },
+    {
+      "citation": "Yu-Ju Lee, C. Bonfanti, L. Trailovic, B. J. Etherton, M. W. Govett, and J. Q. Stewart: Using Deep Learning for Targeted Data Selection: Improving Satellite Observation Utilization for Model Initialization. 17th Conf on Artificial and Computational Intelligence, Austin, TX, Amer. Meteor. Soc., J38.3, https://ams.confex.com/ams/98Annual/webprogram/Paper333024.html."
+    },
+    {
+      "citation": "Lee, Yu-Ju, Christina E. Bonfanti, Lidia Trailovic, Brian Etherton, Mark Govett, and Jebb Stewart. \"Using Deep Learning for Targeted Data Selection, Improving Satellite Observation Utilization for Model Initialization.\" In AGU Fall Meeting Abstracts. 2017."
+    },
+    {
+      "citation": "Yu-Ju Lee, C. Bonfanti and J. Q. Stewart: Improving Satellite Observation Utilization for Model Initialization Through the Use of Supervised Machine Learning. 16th Conf on Artificial and Computational Intelligence, Baltimore, MD, Amer. Meteor. Soc., 3A.3, https://ams.confex.com/ams/Baltimor/webprogram/Paper319907.html."
+    }
+  ]
+}
