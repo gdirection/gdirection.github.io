@@ -4,8 +4,9 @@
     "title": "Software Engineer",
     "company": "Verily Life Sciences, South San Francisco, CA, USA",
     "responsibilities": [
-      "Designed and implemented critical quality workflows and provenance features for data enrichment modules, ensuring data integrity and accuracy across systems.",
-      "Developed and deployed data extraction modules on GCP data pipeline, converting complex healthcare data into FHIR resources for healthcare registries."
+      "Designed data models and schemas for healthcare data platform on Google Cloud Healthcare API, translating product requirements into schema structures and query patterns while addressing query optimization, indexing strategies, and scalability constraints under managed service limitations.",
+      "Designed and implemented Go-based data processing pipelines for rule-based filtering and grouping, extraction, and prefetch optimization. Built comprehensive unit and integration testing with CI/CD automation via GitHub Actions. Solutions deployed across multiple programs on distributed platform, optimizing for API quota constraints and throughput requirements.",
+      "Defined provenance tracking and data quality validation patterns for multi-stage processing pipelines. Built monitoring and alerting infrastructure using Google Cloud operations stack (Cloud Run services, Cloud Monitoring, BigQuery) managed via Terraform, providing auditable and observable data flows for production systems."
     ]
   },
   {
@@ -13,23 +14,23 @@
     "title": "Software Developer",
     "company": "Epic Systems, Madison, WI, USA",
     "responsibilities": [
-      "Proposed an efficient ID management service to support scalable systems after identifying limitations in the existing ID generation mechanism",
-      "Developed RESTful APIs for 17 HL7 FHIR resources and 2 FHIR profiles to exchange electronic health record data",
-      "Reduced memory footprint by one-third during queries on Caché multi-model databases, leading to faster response times."
+      "Developed and maintained FHIR-based REST APIs and international profiles (US USCDI, Netherlands) for Epic's EHR platform during a period of rapid adoption, implementing 17 FHIR resources and 2 production profiles supporting growth from 12 billion to 22+ billion annual transactions and 700+ third-party applications.",
+      "Designed data transformation pipelines from Epic's internal clinical data models to HL7 FHIR resources, ensuring semantic correctness and standards compliance, avoiding data misinterpretation by downstream healthcare systems",
+      "Optimized database query patterns and data access logic on InterSystems Caché, reducing memory footprint by one-third and improving response times for latency-sensitive production endpoints."
     ]
   },
   {
     "period": "May 2018 – Aug 2018",
-    "title": "Systems Engineering Internships",
+    "title": "Systems Engineering Internship",
     "company": "Qualcomm Atheros, San Jose, USA",
     "responsibilities": [
-      "Developed machine learning algorithm to control Adaptive Noise Immunity feature of Wi-Fi to enhance throughput performance",
-      "Collected Wi-Fi RF sensing data and built an indoor mapping system through deep learning (Python/Scikit-learn)"
+      "Developed adaptive Wi-Fi noise immunity control algorithm using Kalman filtering to track PHY error counter variance patterns. Replaced traditional hard-threshold approach with dynamic optimization that automatically adapts to changing interference conditions.",
+      "Validated algorithm performance in controlled test environment using shielding box, signal generator, and OpenWRT access points to simulate various interference scenarios. Solution was selected for internal patent review."
     ]
   },
   {
     "period": "Jun 2016 – Aug 2016",
-    "title": "Systems Engineering Internships",
+    "title": "Systems Engineering Internship",
     "company": "Qualcomm Research, New Jersey, USA",
     "responsibilities": [
       "Designed smart logging software system for LTE small cells to locate critical timing to debug and perform system profiling",
@@ -41,9 +42,11 @@
     "title": "System Engineer",
     "company": "MediaTek, Taiwan",
     "responsibilities": [
-      "Developed rate adaptation algorithms for 802.11ac SU/MU-MIMO wireless systems, simulated the algorithm by OMNEST network simulator and correlated with field trial measurement (C/C++/OMNEST)",
-      "Designed coexistence architecture of Wi-Fi/Bluetooth/LTE combo chip by time and frequency domain management. led projects from feature evaluation, function design, chip simulation, FPGA emulation, silicon chips validation, system performance tuning and system quality assurance to the final max production stage",
-      "Brought up initial firmware, FPGA driver and automation test tools for system architecture design and evaluation (C/Python/Linux Driver)"
+      "Owned end-to-end delivery of Wi-Fi/Bluetooth/LTE coexistence feature for flagship combo chip, with full authority to design hardware, software, or system-level solutions. Made architectural decisions spanning hardware logic, firmware implementation, and protocol-level coordination.",
+      "Led FPGA emulation and silicon validation for combo chip, debugging hardware-software interface issues and verifying system functionality. Conducted extensive testing in both controlled environments (shielding room) and customer deployment sites, collecting performance data and analyzing real-world interference to validate throughput and latency under production conditions. Collaborated with digital designers to correlate simulation results with measured behavior.",
+      "Developed firmware and device drivers for wireless system architecture, including real-time control loops, hardware interfaces (USB/PCIe), an cross-layer coordination mechanisms. Implemented solutions across multiple platforms including Linux and Windows environments. Built Python automation tools for driver testing, chip bring-up, and system validation.",
+      "Designed and implemented rate adaptation algorithms for 802.11ac SU/MU-MIMO systems. Simulated expected performance using OMNEST network simulator to guide hardware selection and establish validation baselines for mass-produced chips",
+      "Led full product lifecycle from feature evaluation through mass production, coordinating across hardware, firmware, software, and QA teams. Conducted technical presentations and system integration support for tier-1 customers including Sony, Samsung, and LG."
     ]
   }
 ]
