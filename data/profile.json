@@ -2,7 +2,7 @@
   "name": "Yu-Ju Lee",
   "image": "images/profile_img.png",
   "bio": [
-    "I am a software engineer at Verily, focusing on backend development on Google Cloud. I hold a PhD in Computer Science from the University of Colorado Boulder, where my research, under the guidance of Prof. <a href=\"https://david-matthew-hall.com\">David Hall</a>, applied machine learning to meteorological data for interpretable prediction. Before my PhD, I worked as a systems engineer, designing coexistence architectures for co-located wireless systems, particularly in Wi-Fi technology."
+    "Software engineer spanning embedded systems, backend data systems, and cloud platforms. Built data transformation infrastructure serving 22B+ transactions at Epic, designed data pipelines on Google Cloud at Verily, and developed wireless systems with multiple patents at MediaTek. PhD in Computer Science focusing on ML for system automation."
   ],
   "resume": "./files/Resume_Yu_Ju_Lee.pdf",
   "social": [
