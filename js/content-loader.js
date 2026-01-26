@@ -53,7 +53,7 @@ async function loadEducation() {
     const data = await fetchJSON('data/education.json');
     if (!data) return;
 
-    const container = document.querySelector('.fh5co-tab-content[data-content="2"] .col-md-12');
+    const container = document.querySelector('.fh5co-tab-content[data-content="3"] .col-md-12');
     container.innerHTML = data.map(edu => `
         <div class="fh5co-feature">
             <div class="fh5co-icon">
@@ -72,7 +72,7 @@ async function loadPublications() {
     const data = await fetchJSON('data/publications.json');
     if (!data) return;
 
-    const container = document.querySelector('.fh5co-tab-content[data-content="3"] .col-md-12');
+    const container = document.querySelector('.fh5co-tab-content[data-content="4"] .col-md-12');
 
     let html = '<h1>Publications</h1>';
 
@@ -128,7 +128,7 @@ async function loadExperience() {
     const data = await fetchJSON('data/experience.json');
     if (!data) return;
 
-    const container = document.querySelector('.fh5co-tab-content[data-content="4"] .col-md-12');
+    const container = document.querySelector('.fh5co-tab-content[data-content="2"] .col-md-12');
 
     let html = '<p>It is my pleasure to work with these cool companies.</p>';
 
