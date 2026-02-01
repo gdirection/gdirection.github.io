@@ -2,7 +2,8 @@
   "name": "Yu-Ju Lee",
   "image": "images/profile_img.png",
   "bio": [
-    "Software engineer spanning embedded systems, backend data systems, and cloud platforms. Built data transformation infrastructure serving 22B+ transactions at Epic, designed data pipelines on Google Cloud at Verily, and developed wireless systems with multiple patents at MediaTek. PhD in Computer Science focusing on ML for system automation."
+    "I build production systems across the stack: embedded platforms, backend services, and cloud infrastructure.",
+    "Over the past decade, my work has ranged from wireless systems in production silicon to backend platforms serving 22B+ transactions and cloud data pipelines on Google Cloud, backed by a PhD in Computer Science with research in ML-driven system automation."
   ],
   "resume": "./files/Resume_Yu_Ju_Lee.pdf",
   "social": [
