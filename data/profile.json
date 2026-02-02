@@ -2,8 +2,8 @@
   "name": "Yu-Ju Lee",
   "image": "images/profile_img.png",
   "bio": [
-    "I build production systems across the stack: embedded platforms, backend services, and cloud infrastructure.",
-    "Over the past decade, my work has ranged from wireless systems in production silicon to backend platforms serving 22B+ transactions and cloud data pipelines on Google Cloud, backed by a PhD in Computer Science with research in ML-driven system automation."
+    "I build production-grade systems across the stack: embedded platforms, backend services, and cloud infrastructure.",
+    "Over the past decade, my work has ranged from wireless systems in production silicon to backend platforms serving 22B+ transactions, and to cloud data pipelines on Google Cloud—building end-to-end systems across layers. I hold a PhD in Computer Science, with research in ML-driven system automation."
   ],
   "resume": "./files/Resume_Yu_Ju_Lee.pdf",
   "social": [

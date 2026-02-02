@@ -14,7 +14,7 @@
     "title": "Software Developer",
     "company": "Epic Systems, Madison, WI, USA",
     "responsibilities": [
-      "Developed and maintained FHIR-based REST APIs and international profiles (US USCDI, Netherlands) for Epic's EHR platform during a period of rapid adoption, implementing 17 FHIR resources and 2 production profiles supporting growth from 12 billion to 22+ billion annual transactions and 700+ third-party applications.",
+      "Developed and maintained FHIR-based REST APIs and international profiles (USCDI, Netherlands) for Epic's EHR platform during a period of rapid adoption, implementing 17 FHIR resources and 2 production profiles, contributing to growth from 12B to 22B+ annual transactions and supporting 700+ third-party applications.",
       "Designed data transformation pipelines from Epic's internal clinical data models to HL7 FHIR resources, ensuring semantic correctness and standards compliance, avoiding data misinterpretation by downstream healthcare systems",
       "Optimized database query patterns and data access logic on InterSystems Caché, reducing memory footprint by one-third and improving response times for latency-sensitive production endpoints."
     ]
