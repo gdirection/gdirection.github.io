@@ -20,12 +20,31 @@
     ]
   },
   {
+    "period": "Sep 2020 – Feb 2021",
+    "title": "Postdoctoral Researcher",
+    "company": "Cooperative Institute for Research in Environmental Sciences (CIRES), Boulder, CO, USA",
+    "responsibilities": [
+      "Built a Python workflow to locate and analyze the midnight temperature maximum from WAM-IPE model simulation outputs.",
+      "Led machine learning experiments to detect spread-F patterns in ionograms using deep learning-based classifiers."
+    ]
+  },
+  {
     "period": "May 2018 – Aug 2018",
     "title": "Systems Engineering Internship",
     "company": "Qualcomm Atheros, San Jose, USA",
     "responsibilities": [
       "Developed adaptive Wi-Fi noise immunity control algorithm using Kalman filtering to track PHY error counter variance patterns. Replaced traditional hard-threshold approach with dynamic optimization that automatically adapts to changing interference conditions.",
       "Validated algorithm performance in controlled test environment using shielding box, signal generator, and OpenWRT access points to simulate various interference scenarios. Solution was selected for internal patent review."
+    ]
+  },
+  {
+    "period": "Jan 2017 – May 2018 (during PhD; part-time semesters, full-time summers)",
+    "title": "Professional Research Assistant",
+    "company": "Cooperative Institute for Research in Environmental Sciences (CIRES), Boulder, CO, USA",
+    "responsibilities": [
+      "Built parallelized data pre-/post-processing pipelines for satellite datasets and model evaluation workflows.",
+      "Applied feature engineering and image processing techniques to identify extreme weather phenomena.",
+      "Built convolutional neural networks to detect regions of interest from water vapor satellite imagery."
     ]
   },
   {
